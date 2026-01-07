@@ -1,0 +1,10 @@
+
+ACCESS DENIED
+
+This server requires a specialized Telnet client with XCMD support.
+
+Please download the client at:
+https://github.com/krypniok/inetutils
+
+ 
+ 

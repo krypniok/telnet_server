@@ -1,0 +1,6 @@
+
+   TIMEOUT
+
+   Connection closed due to inactivity.
+   
+   Please reconnect.
